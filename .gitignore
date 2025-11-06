@@ -1,0 +1,10 @@
+# Local build output
+mcp-demo
+# IDE/editor directories and files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
